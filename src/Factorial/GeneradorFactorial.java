@@ -1,4 +1,4 @@
-package actividad1;
+package Factorial;
 
 public class GeneradorFactorial {
 	// defino los atributos privados

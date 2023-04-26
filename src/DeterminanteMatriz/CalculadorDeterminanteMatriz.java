@@ -1,4 +1,4 @@
-package actividad3;
+package DeterminanteMatriz;
 
 public class CalculadorDeterminanteMatriz {
 	// defino los atributos privados

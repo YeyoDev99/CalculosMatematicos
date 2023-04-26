@@ -1,4 +1,4 @@
-package actividad2;
+package Fibonacci;
 
 public class GeneradorFibonacci {
 	// defino los atributos privados
